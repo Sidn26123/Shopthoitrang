@@ -45,4 +45,5 @@ Dự án được thiết kế với kiến trúc rõ ràng, giao diện thân t
 ---
 
 ## 📁 Cấu trúc thư mục
+![image](https://github.com/user-attachments/assets/f8771a47-008c-4824-9ad4-2b3b19b6b59c)
 
