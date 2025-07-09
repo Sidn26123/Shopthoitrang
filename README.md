@@ -27,7 +27,8 @@ Database: SQL Server
 - Duyệt danh mục, tìm kiếm sản phẩm
 - Thêm vào giỏ hàng, cập nhật số lượng
 - Tạo đơn hàng, xem lịch sử đặt hàng
-- Thanh toán (mô phỏng)
+- Tìm kiếm bằng hình ảnh
+- Hệ thống tìm kiếm ML-based, dựa trên dữ liệu tương tác giữa người dùng và sản phẩm
 
 ### 🛒 Giỏ hàng
 
