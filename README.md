@@ -11,8 +11,13 @@ Dự án được thiết kế với kiến trúc rõ ràng, giao diện thân t
 ## Cơ sơ dữ liệu
 ![image](https://github.com/user-attachments/assets/65ab2f5e-1c49-4bc4-b277-595903a8e164)
 
+---
+## Công nghệ sử dụng:
+Backend: Java 17, Spring framework
+Database: SQL Server 
 
 ---
+
 
 ## 🎯 Các chức năng chính
 
