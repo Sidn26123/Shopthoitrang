@@ -10,7 +10,10 @@ Dự án được có kiến trúc rõ ràng, giao diện thân thiện, đáp �
 
 ## 🖼️ Demo
 
-https://github.com/user-attachments/assets/bbc7dfea-772f-47d8-a265-209497501a15
+
+
+https://github.com/user-attachments/assets/97e334be-161f-4ec5-88f0-8b5ed24e46c6
+
 
 ---
 
