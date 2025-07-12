@@ -4,8 +4,6 @@
 
 Đây là một dự án web bán hàng trực tuyến được xây dựng với bối cảnh cho người kinh doanh muốn tạo 1 trang web cho cửa hàng của mình, mở rộng lĩnh vực kinh doanh online, cung cấp người khác khả năng xem sản phẩm, giỏ hàng, đặt hàng, thanh toán, quản lý đơn hàng, và phân quyền người dùng (khách hàng / quản trị viên).
 
-Dự án được có kiến trúc rõ ràng, giao diện thân thiện, đáp ứng được trải nghiệm người dùng cơ bản và chức năng quản trị hệ thống.
-
 ---
 
 ## Demo
