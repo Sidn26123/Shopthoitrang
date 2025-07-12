@@ -8,7 +8,7 @@ Dự án được có kiến trúc rõ ràng, giao diện thân thiện, đáp �
 
 ---
 
-## 🖼️ Demo
+## Demo
 
 
 
@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/97e334be-161f-4ec5-88f0-8b5ed24e46c6
 
 ---
 
-## Cơ sơ dữ liệu
+## Cơ sở dữ liệu
 ![image](https://github.com/user-attachments/assets/65ab2f5e-1c49-4bc4-b277-595903a8e164)
 
 ---
@@ -28,7 +28,7 @@ Database: SQL Server
 ---
 
 
-## 🎯 Các chức năng chính
+## Các chức năng chính
 
 ### 👥 Người dùng (khách hàng)
 
