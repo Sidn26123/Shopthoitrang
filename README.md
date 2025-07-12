@@ -4,7 +4,12 @@
 
 Đây là một dự án web bán hàng trực tuyến được xây dựng với bối cảnh cho người kinh doanh muốn tạo 1 trang web cho cửa hàng của mình, mở rộng lĩnh vực kinh doanh online, cung cấp người khác khả năng xem sản phẩm, giỏ hàng, đặt hàng, thanh toán, quản lý đơn hàng, và phân quyền người dùng (khách hàng / quản trị viên).
 
-Dự án được thiết kế với kiến trúc rõ ràng, giao diện thân thiện, đáp ứng được trải nghiệm người dùng cơ bản và chức năng quản trị hệ thống.
+Dự án được có kiến trúc rõ ràng, giao diện thân thiện, đáp ứng được trải nghiệm người dùng cơ bản và chức năng quản trị hệ thống.
+
+---
+
+## 🖼️ Demo
+https://github.com/user-attachments/assets/bb000620-04ea-42d7-8d0a-92ada6804c80
 
 ---
 
@@ -40,13 +45,13 @@ Database: SQL Server
 
 - Quản lý sản phẩm: thêm, sửa, xoá
 - Quản lý danh mục sản phẩm
+
+
+
 - Quản lý đơn hàng, xác nhận trạng thái
 - Quản lý người dùng
 - Xem thống kê người dùng, doanh thu
 
----
-
-## 🖼️ Giao diện mẫu
 
 ---
 
